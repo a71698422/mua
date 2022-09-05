@@ -1,4 +1,4 @@
-#Java服务端代码使用概要：
+# Java服务端代码使用概要：
  ## 1、IM相关    
     1、com.easemob.mua.utils目录下ImHttp文件是配置IM请求的 APPKEY、ClientID、ClientSecret 用户去环信后台申请并替换为自己的相关值；
  ## 2、数据库配置
